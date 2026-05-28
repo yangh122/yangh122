@@ -1,6 +1,6 @@
 # Hi, I'm Haochang Yang
 
-I'm a Computer Engineering graduate and MEng student at the University of Toronto, focused on Applied AI, LLM applications, and AI engineering systems.
+I'm a Computer Engineering graduate and MEng student at the University of Toronto, currently focused on Applied AI, LLM applications, and AI engineering systems.
 
 ## Focus Areas
 
